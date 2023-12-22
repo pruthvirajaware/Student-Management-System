@@ -6,7 +6,8 @@
 	<display-name>Archetype Created Web Application</display-name>
 
 	<welcome-file-list>
-		<welcome-file>/WEB-INF/views/NewFile.jsp</welcome-file>
+		<!-- <welcome-file>/WEB-INF/views/addstudent.jsp</welcome-file> -->
+		<welcome-file>/WEB-INF/views/navigation.jsp</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
 	
